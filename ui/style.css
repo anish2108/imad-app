@@ -2,6 +2,7 @@ body {
     font-family: sans-serif;
     background-color: lightgrey;
     margin-top: 75px;
+    color:red;
 }
 
 .center {
@@ -19,8 +20,5 @@ body {
 .img-medium {
     height: 200px;
 }
-.background
-{
-    color:white;
-}
+
 
